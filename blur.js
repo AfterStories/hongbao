@@ -1,6 +1,6 @@
-// JavaScript Document
-var canvasWidth=600
-var canvasHeight=800
+
+  var canvasWidth=600
+  var canvasHeight=800
 
 var canvas = document.getElementById("canvas")
 var context = canvas.getContext("2d")
